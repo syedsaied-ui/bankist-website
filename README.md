@@ -2,6 +2,10 @@
 
 A modern landing page for a fictional bank with smooth animations and interactive components.
 
+## 🌐 Live Demo
+
+🔗 https://bankist-saied.vercel.app
+
 ## 🚀 Features
 - Smooth scrolling navigation
 - Sticky navbar
