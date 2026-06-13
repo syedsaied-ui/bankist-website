@@ -33,4 +33,4 @@ Use VS Code Live Server
 
 ## 📌 Author
 
-Syed Muhammad Saied
+**Syed Muhammad Saied**
