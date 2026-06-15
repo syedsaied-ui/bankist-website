@@ -579,13 +579,9 @@ h4 {
 }
 
 .footer__copyright {
-  font-size: 1.4rem;
+  font-size: 1.6rem;
   color: #aaa;
   text-align: center;
-}
-
-.footer__copyright .footer__link {
-  font-size: 1.4rem;
 }
 
 /* MODAL WINDOW */
